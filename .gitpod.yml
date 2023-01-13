@@ -1,5 +1,5 @@
 
-image: fedora
+#image: fedora
 #  file: .gitpod.Dockerfile
   
 tasks:
